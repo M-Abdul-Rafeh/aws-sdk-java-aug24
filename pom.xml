@@ -457,6 +457,8 @@
       <!-- Netty is used by Kinesis Video -->
       <netty.version>4.1.108.Final</netty.version>
       <versions-maven-plugin.version>2.13.0</versions-maven-plugin.version>
+      <sonar.organization>m-abdul-rafeh</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
   <dependencyManagement>
     <dependencies>
